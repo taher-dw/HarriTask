@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <!--<style name="WeatherTabLayoutTheme" parent="Widget.Design.TabLayout">
+    &lt;!&ndash;<item name="tabMaxWidth">40dp</item>&ndash;&gt;
+    <item name="tabIndicatorColor">@color/colorSecondery</item>
+    <item name="tabIndicatorHeight">3dp</item>
+    <item name="tabPaddingStart">1dp</item>
+    <item name="tabPaddingEnd">1dp</item>
+    <item name="tabBackground">@color/white</item>
+    <item name="tabTextAppearance">@style/CloudTabTextAppearance</item>
+    <item name="tabSelectedTextColor">@color/colorSecondery</item>
+    <item name="android:iconPreview">@color/transparent10_green</item>
+    </style>-->
+
+</resources>

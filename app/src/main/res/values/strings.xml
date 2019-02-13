@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HarriTask</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="loading_countries_message">Loading Countries</string>
+    <string name="loading_weather_details_message">Loading weather details</string>
+    <string name="country_name">Name</string>
+    <string name="country_region">Region</string>
+    <string name="country_capital">Capital</string>
+    <string name="country_population">Population</string>
+    <string name="weather_date">Date</string>
+    <string name="temperature">temp</string>
+    <string name="pressure">pressure</string>
+    <string name="humidity">humidity</string>
+    <string name="profile_description">Profile Details Description</string>
+</resources>

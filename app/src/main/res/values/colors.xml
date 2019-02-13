@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3792D0</color>
+    <color name="colorPrimaryDark">#296B98</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorSecondery">#3792D0</color> <!--for buttons and some descriptions-->
+    <color name="colorSeconderyVariant">#296B98</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="colorTeritary">#DDB44A</color>
+    <color name="colorTeritaryVariant">#D19907</color>
+</resources>
